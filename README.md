@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=plastic&logo=appveyor&logoColor=ffffff"/></a>
 -->
 
-# Hi, I'm [Eung_Ae] 👋
+# Hi, I'm Eung Ae 👋
 
 I'm a passionate Data Analyst with a strong foundation in data analysis, machine learning, and data visualization. I love turning raw data into actionable insights that drive business decisions.
 
@@ -32,10 +32,10 @@ I'm a passionate Data Analyst with a strong foundation in data analysis, machine
 
 ## Featured Projects
 
-### [Project 1: Sales Data Analysis](https://github.com/yourusername/project1)
+### [Project 1: Travel-Dog](https://github.com/someday486/Travel-Dog)
 Analyzed sales data to uncover trends and provide insights for sales strategy improvement. Used Python, Pandas, and Seaborn for analysis and visualization.
 
-### [Project 2: Customer Segmentation](https://github.com/yourusername/project2)
+### [Project 2: MUSI - Musical Recommendation](https://github.com/khn5906/django_project2)
 Performed customer segmentation using clustering algorithms to help target marketing efforts more effectively. Implemented in Python using Scikit-Learn.
 
 ### [Project 3: Stock Price Prediction](https://github.com/yourusername/project3)
