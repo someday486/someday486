@@ -40,7 +40,7 @@ Built a predictive model using machine learning to forecast stock prices based o
 
 ## Education & Certifications
 
-- **MSc in Data Science** - XYZ University
+- **MSc in Data Science** - Harvard University
 - **Google Data Analytics Professional Certificate**
 - **Certified Tableau Specialist**
 
