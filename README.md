@@ -46,7 +46,7 @@ Built a predictive model using machine learning to forecast stock prices based o
 
 ## Let's Connect
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/baby-soda-875b01307/)
+- **LinkedIn:** [Baby Soda](https://www.linkedin.com/in/baby-soda-875b01307/)
 - **Email:** dongdonglee486@gmail.com
 - **GitHub:** [Eung_Ae](https://github.com/someday486)
 
