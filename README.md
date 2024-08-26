@@ -1,5 +1,5 @@
-## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=venom)
+![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=0,2,2,5,30&text=Eung%Ae%World!)
+
 <!--
 **someday486/someday486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
