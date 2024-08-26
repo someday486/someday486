@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&text=Eung%20Ae%20World!&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&customColorList=0,2,2,5,30&text=Hello,%20Eung%20Ae%20World!&fontColor=d6ace6)
 
 <!--
 **someday486/someday486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 <!--
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=plastic&logo=appveyor&logoColor=ffffff"/></a>
 -->
-
-# Hi, I'm Eung Ae 👋
-
 I'm a passionate Data Analyst with a strong foundation in data analysis, machine learning, and data visualization. I love turning raw data into actionable insights that drive business decisions.
 
 ## Skills and Technologies
