@@ -21,23 +21,19 @@ I'm a passionate Data Analyst with a strong foundation in data analysis, machine
 
 ## Skills and Technologies
 
-- **Programming Languages:** Python, R, SQL
+- **Programming Languages:** Python, SQL
 - **Data Analysis:** Pandas, NumPy, Scikit-Learn
 - **Data Visualization:** Matplotlib, Seaborn, Power BI, Tableau
 - **Machine Learning:** TensorFlow, Keras, Scikit-Learn
-- **Tools:** Jupyter, Git, Docker
+- **Tools:** Jupyter, Git
 
 ## Featured Projects
 
 ### [Project 1: Travel-Dog](https://github.com/someday486/Travel-Dog)
-Analyzed sales data to uncover trends and provide insights for sales strategy improvement. Used Python, Pandas, and Seaborn for analysis and visualization.
 
 ### [Project 2: MUSI - Musical Recommendation](https://github.com/khn5906/django_project2)
-Performed customer segmentation using clustering algorithms to help target marketing efforts more effectively. Implemented in Python using Scikit-Learn.
 
-### [Project 3: Stock Price Prediction](https://github.com/yourusername/project3)
-Built a predictive model using machine learning to forecast stock prices based on historical data. Utilized TensorFlow and Keras for deep learning.
-
+<!--
 ## Education & Certifications
 
 - **MSc in Data Science** - Harvard University
@@ -53,8 +49,9 @@ Built a predictive model using machine learning to forecast stock prices based o
 
 ## Personal Interests
 
-When I'm not crunching numbers, I enjoy hiking, playing the guitar, and reading about the latest tech trends.
+When I'm not crunching numbers, I enjoy , playing the guitar, and reading about the latest tech trends.
 
 ## GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=someday486&show_icons=true&theme=radical)
+-->
